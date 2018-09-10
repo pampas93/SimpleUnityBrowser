@@ -1,0 +1,36 @@
+syntax: glob
+*.suo
+ConsoleTest/bin/
+ConsoleTest/obj/
+SharedPluginServer/bin/
+SharedPluginServer/cef/
+SharedPluginServer/obj/
+TestClient/bin/
+TestClient/obj/
+MessageLibrary/bin/
+MessageLibrary/obj/
+UnityClient/Library/CrashedAssetImports.txt
+UnityClient/Library
+UnityClient/Temp
+release_build/
+UnityClient/Output/
+UnityClient/Assets/SimpleWebBrowser/PluginServer/x64/debug.log
+UnityClient/Assets/SimpleWebBrowser/PluginServer/x64/log-file.txt
+UnityClient/BrowserDemo.zip
+SharedMemory/bin/
+SharedMemory/obj/
+UnityClient/BrowserDemoWebRTC.zip
+UnityClient/Assets/SimpleWebBrowser/PluginServer/x64/Extending Unity with Editor Scripting [eBook].pdf
+UnityClient/Assets/SimpleWebBrowser/PluginServer/x64/Extending Unity with Editor Scripting [eBook].pdf
+_ReSharper.Caches/
+syntax: glob
+.DS_Store
+*.sln
+*.userprefs
+*.csproj
+*.pidb
+*.unitypackage
+syntax: regexp
+^Build/.*
+^Library/.*
+^Temp/.*
