@@ -1,0 +1,4 @@
+[submodule "SharedMemory"]
+	path = SharedMemory
+	url = https://github.com/spazzarama/SharedMemory.git
+	branch = master

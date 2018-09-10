@@ -10,9 +10,6 @@ using System.Collections.Generic;
 namespace SimpleWebBrowser
 {
 
-
-
-
     public class WebBrowser : MonoBehaviour
     {
 
