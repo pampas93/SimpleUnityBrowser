@@ -1,5 +1,18 @@
 # Simple Unity browser #
 
+This is fork off Vitaly_chashin's [Bitbucket repository](https://bitbucket.org/vitaly_chashin/simpleunitybrowser/overview)
+
+Files which are too large to upload
+* libcef.dll (UnityClient\Assets\SimpleWebBrowser\PluginServer\x86)
+* libcef.dll (UnityClient\Assets\SimpleWebBrowser\PluginServer\x64)
+* libcef.dll (third_party\cef_64)
+
+Todo,
+* Add cef submodule and build .dll with build scripts
+
+-----
+## Original Readme
+
 This is a simple embedded browser plugin. It is based on CefGlue, and using a background process to render web pages. 
 
 The plugin was developed initially for some projects of [Jedium](https://jedium.com/), but we decided to open-source it.
